@@ -1,0 +1,1 @@
+"d:\Portable\Portable Python-3.10.5 x64\App\Python\Scripts\streamlit" run testStreamlit2.py
